@@ -1,3 +1,3 @@
 # projeto-museu-nacional
-### Replicando o layout
+## Replicando o layout
 #### https://maxwelllbarboza.github.io/projeto-museu-nacional/
